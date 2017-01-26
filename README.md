@@ -2,7 +2,7 @@
 ## Humidity and temperature monitoring IoT app
 
 ## ** Base libraries: **
-##  - Arduino IDE for ESP8266, founded at:
+##- Arduino IDE for ESP8266, founded at:
 ##      https://github.com/esp8266/Arduino
 ##      
 ##  - Simple Thread library from:

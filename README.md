@@ -24,4 +24,5 @@ Humidity and temperature monitoring IoT application using EmonCMS API.
 - Input your Wi-Fi settings in the Wi-Fi config section;
 - Input your API key in the EmonCMS config section;
 - Build and start to receive data.
+
 ==========================================

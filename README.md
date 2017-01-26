@@ -1,11 +1,9 @@
 ------------------------------------------
 # DHTEmonCMS
 
-
-
 Humidity and temperature monitoring IoT application using EmonCMS API.
-------------------------------------------
-------------------------------------------
+
+
 ## Base libraries:
 ------------------------------------------
 
@@ -18,7 +16,7 @@ Humidity and temperature monitoring IoT application using EmonCMS API.
 - EmonCMS:
       https://github.com/emoncms/emoncms
       
-------------------------------------------
+
 ## How to run:
 
 - Sign up at emoncms.org;

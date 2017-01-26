@@ -2,10 +2,11 @@
 # DHTEmonCMS
 ------------------------------------------
 
-Humidity and temperature monitoring IoT app
+Humidity and temperature monitoring IoT application using EmonCMS API.
 
+------------------------------------------
 ## Base libraries:
-===========================================
+------------------------------------------
 - Arduino IDE for ESP8266:
       https://github.com/esp8266/Arduino
       

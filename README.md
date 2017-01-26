@@ -1,5 +1,4 @@
 # DHTEmonCMS
-===========================================
 ------------------------------------------
 
 Humidity and temperature monitoring IoT app
@@ -16,7 +15,7 @@ Humidity and temperature monitoring IoT app
       https://github.com/emoncms/emoncms
 
 ## How to run:
-===========================================
+------------------------------------------
 
 - Sign up at emoncms.org;
 - Get your read API key;
